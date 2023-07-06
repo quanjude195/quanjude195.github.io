@@ -1,0 +1,46 @@
+[{
+	"api": "https://nbyy.com",
+	"download": "",
+	"group": "资源",
+	"jiexiUrl": "",
+	"name": "泥巴影视"
+}, {
+	"api": "https://api.apibdzy.com/api.php/provide/vod/at/xml/",
+	"download": "",
+	"group": "资源",
+	"jiexiUrl": "",
+	"name": "百度资源"
+}, {
+	"api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml/",
+	"download": "",
+	"group": "资源",
+	"jiexiUrl": "",
+	"name": "天空资源"
+}, {
+	"api": "http://cj.bajiecaiji.com/inc/api.php",
+	"download": "",
+	"group": "资源",
+	"jiexiUrl": "",
+	"name": "八戒资源"
+}, {
+	"api": "https://www.39kan.com/api.php/provide/vod/at/xml/",
+	"download": "",
+	"group": "资源",
+	"jiexiUrl": "",
+	"name": "39影视"
+}, {
+	"api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml/",
+	"download": "",
+	"group": "资源",
+	"jiexiUrl": "",
+	"name": "飘花电影"
+}, {
+	"api": "http://vipmv.cc/api.php/provide/vod/at/xml/",
+	"download": "",
+	"group": "资源",
+	"jiexiUrl": "",
+	"name": "天堂资源"
+}, {
+	"api": "http://sdzyapi.com/api.php/provide/vod/at/xml/",
+	"download": "",
+	"group": "资源"
