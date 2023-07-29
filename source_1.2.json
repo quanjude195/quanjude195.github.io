@@ -46,85 +46,7 @@
 	"group": "资源",
 	"jiexiUrl": "",
 	"name": "闪电资源"
-}, {
-	"api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*番号资源"
-}, {
-	"api": "http://www.ggmmzy.com:9999/inc/xml",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*速度资源"
-}, {
-	"api": "https://api.maozyapi.com/inc/api.php",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*色猫资源"
-}, {
-	"api": "https://apittzy.com/api.php/provide/vod/at/xml/",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*探探资源"
-}, {
-	"api": "https://ckzy.me/api.php/provide/vod/at/xml/",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*CK资源(VPN)"
-}, {
-	"api": "https://dadiapi.com/api.php",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*大地资源"
-}, {
-	"api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*乐播资源"
-}, {
-	"api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*鲨鱼资源"
-}, {
-	"api": "https://www.gdlsp.com/api/xml.php",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*香奶儿资源"
-}, {
-	"api": "https://www.msnii.com/api/xml.php",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*美少女资源"
-}, {
-	"api": "https://www.pgxdy.com/api/xml.php",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*黄AV资源"
-}, {
-	"api": "https://www.kxgav.com/api/xml.php",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*白嫖资源"
-}, {
-	"api": "https://www.xrbsp.com/api/xml.php",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*淫水机资源"
-}, {
+},  {
 	"api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
 	"download": "",
 	"group": "默认",
@@ -148,25 +70,7 @@
 	"group": "默认",
 	"jiexiUrl": "",
 	"name": "闪电资源"
-}, {
-	"api": "https://apittzy.com/api.php/Seacms/vod/",
-	"download": "",
-	"group": "CR",
-	"jiexiUrl": "",
-	"name": "探探资源"
-}, {
-	"api": "https://www.39kan.com/api.php/provide/vod/at/xml",
-	"download": "",
-	"group": "Ĭ��",
-	"jiexiUrl": "",
-	"name": "39Ӱ��"
-}, {
-	"api": "https://shayuapi.com/api.php/Seacms/vod/",
-	"download": "",
-	"group": "18��",
-	"jiexiUrl": "",
-	"name": "shayu"
-}, {
+},  {
 	"api": "http://cj.bajiecaiji.com/inc/api.php/provide/vod/at/xml",
 	"download": "",
 	"group": "贰组",
@@ -250,19 +154,7 @@
 	"group": "切片资源",
 	"jiexiUrl": "",
 	"name": "韩剧资源"
-}, {
-	"api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
-	"download": "",
-	"group": "诈尸",
-	"jiexiUrl": "",
-	"name": "无尽资源"
-}, {
-	"api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
-	"download": "",
-	"group": "18+",
-	"jiexiUrl": "",
-	"name": "*老鸭资源站"
-}, {
+},{
 	"api": "https://api.wujinapi.com/api.php/provide/vod/at/xml/",
 	"download": "",
 	"group": "一般",
@@ -274,34 +166,4 @@
 	"group": "导入",
 	"jiexiUrl": "",
 	"name": "百度云资源"
-}, {
-	"api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
-	"download": "",
-	"group": "",
-	"jiexiUrl": "",
-	"name": "老鸭资源站"
-}, {
-	"api": "https://cj.bajiecaiji.com/inc/bjm3u8.php",
-	"download": "",
-	"group": "默认福利",
-	"jiexiUrl": "",
-	"name": "八戒资源网"
-}, {
-	"api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-	"download": "",
-	"group": "无码",
-	"jiexiUrl": "",
-	"name": "9号资源网"
-}, {
-	"api": "https://lbapi9.com/api.php/provide/vod/at/xml",
-	"download": "",
-	"group": "无码",
-	"jiexiUrl": "",
-	"name": "乐播资源网"
-}, {
-	"api": "https://dadiapi.com/apple_m3u8.php",
-	"download": "",
-	"group": "无码",
-	"jiexiUrl": "",
-	"name": "大地资源网"
 }]
